@@ -1,0 +1,62 @@
+.container {
+    margin-bottom: 40px;
+}
+
+.bg-light {
+    background-color: red;
+}
+.navbar-nav a {
+    margin-right: 20px;
+}
+.navbar-nav a:last-child {
+    margin-right: 0px;
+}
+.carusol-text h1 {
+    margin-bottom: 5px;
+}
+.carusol-text {
+    padding: 0 10px;
+}
+.carusol-text p {
+    width: 400px;;
+}
+.carusol-text button i {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.btn {
+    padding: 5px 15px;
+    background: black;
+    color: #fff;
+    transition: 0.3s;
+}
+.btn:hover {
+    background: rgb(14, 196, 96);
+    color: rgb(24, 23, 23);
+}
+.h-100 {
+    background: #fff;
+    box-shadow: 1px 2px 6px -2px;
+}
+.col-all-center {
+    text-align: center;
+}
+.tex {
+    margin-bottom: 30px;
+}
+.btn-bootm {
+    margin-bottom: 20px;;
+}
+.images-bag {
+    background: rgb(255, 255, 255);
+    box-shadow: 1px 2px 6px -2px;
+}
+.iages-bag-margin {
+    margin-bottom: 20px;
+}
+.images-bag {
+    padding: 40px;
+}
+.drv h2 {
+    text-align: center;
+}
